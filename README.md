@@ -39,18 +39,7 @@ Provide a set of open-sourced services that I believe should be available by def
 - [ ] **More coins**
 - [ ] **Documentation**
 
-## Screenshots
-> **Important:** A live version of this explorer can be found @ [https://alloyexplorer.com](https://alloyexplorer.com)
 
-![Screenshot](https://cdn.explorer.sh/cnexplorer/01-cnexplorer-home.jpg "Home")
-
-![Screenshot](https://cdn.explorer.sh/cnexplorer/02-cnexplorer-mempool.jpg "Mempool")
-
-![Screenshot](https://cdn.explorer.sh/cnexplorer/03-cnexplorer-pools.jpg "Pools Monitor")
-
-![Screenshot](https://cdn.explorer.sh/cnexplorer/04-cnexplorer-remotes.jpg "Remotes Monitor")
-
-![Screenshot](https://cdn.explorer.sh/cnexplorer/05-cnexplorer-paperwallet.jpg "Paper Wallet")
 
 ## Prerequisites
 > Click on a shield to go to the downloads page
@@ -65,7 +54,7 @@ Provide a set of open-sourced services that I believe should be available by def
 
 ```bash
 apt install git -Y
-git clone https://github.com/kh4n-ro/cryptonote-explorer
+git clone https://github.com/btcsymbiotic/explorer.git
 cd cryptonote-explorer
 npm update
 npm install
