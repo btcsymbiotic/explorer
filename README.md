@@ -56,6 +56,7 @@ Provide a set of open-sourced services that I believe should be available by def
 apt install git -Y
 git clone https://github.com/btcsymbiotic/explorer.git
 cd cryptonote-explorer
+nvm install 10
 npm update
 npm install
 sudo npm i -g grunt grunt-cli
